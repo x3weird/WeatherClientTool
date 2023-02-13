@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherClientTool": {
+      "commandName": "Project",
+      "commandLineArgs": "Kolkata"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvMddOoa5eTAdVo5B2AE8TWAwyZHVSMSdJFTR/s338oE2tD+9iqN1jIKizKng1HOKPD/P77jmhNziwWdy/upKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arjunsinh Jadeja\\Desktop\\test\\PWC\\WeatherClientTool\\WeatherClientTool\\WeatherClientTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arjunsinh Jadeja\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Arjunsinh Jadeja\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Arjunsinh Jadeja\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Arjunsinh Jadeja\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
